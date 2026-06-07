@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pet Fly Inc - Admin Portal</title>
+    <script type="module" crossorigin src="/assets/index-CVJoSUgX.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Bg0OLj0Q.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="/message-widget.js" defer></script>
+  </body>
+</html>
+
